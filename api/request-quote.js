@@ -85,7 +85,7 @@ function renderCustomerConfirmation(payload, protocol) {
         <p>Seu pedido de orçamento foi recebido com o protocolo <strong>${escapeHtml(protocol)}</strong>.</p>
         <p><strong>Serviço:</strong> ${escapeHtml(project.service || 'não informado')}<br><strong>Peça/modelo:</strong> ${escapeHtml(project.model || project.piece || 'não informado')}</p>
         <p>O envio do formulário não conclui uma compra. A contratação ocorrerá somente após a apresentação e a aprovação do orçamento com preço, materiais, prazo, entrega e forma de pagamento.</p>
-        <p>Para dúvidas ou correções, fale pelo WhatsApp +55 (75) 98232-1515 e informe o protocolo.</p>
+        <p>Para dúvidas ou correções, fale pelo WhatsApp +55 (75) 98233-1515 e informe o protocolo.</p>
       </div>
     </div>
   </div>`;
