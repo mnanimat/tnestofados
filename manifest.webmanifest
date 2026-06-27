@@ -1,0 +1,12 @@
+{
+  "name": "TN Estofados",
+  "short_name": "TN Estofados",
+  "description": "Fabricação e reforma de estofados sob medida em Feira de Santana.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e0d0c",
+  "theme_color": "#0e0d0c",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
